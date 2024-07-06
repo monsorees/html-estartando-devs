@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  background-color: #4c45b2;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0 ,0.1);
+}
+
+.container{
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header-title{
+  font-size: 3rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-family: "Montserrat";
+}
+
+.nav-list{
+  list-style-type: none;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.nav-item{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav-link{
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.li-promo{
+  list-style: none;
+}
+
+.imagem{
+  height: 400px;
+  margin-top: 40px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+.imagem:hover{
+  height: 420px;
+}
+
+#home, footer{
+  text-align: center;
+}
+
+.titulo3{
+  margin-top: 30px;
+  font-family: "montserrat";
+}
+
+h2{
+  font-family: "montserrat";
+  margin: 30px 0;
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+p, figcaption{
+  font-family: "open sans";
+  font-size: 1.2rem;
+}
